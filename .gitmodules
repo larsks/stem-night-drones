@@ -1,0 +1,6 @@
+[submodule "py-mpu6050"]
+	path = py-mpu6050
+	url = gh:larsks/py-mpu6050
+[submodule "py-mpu6050-client"]
+	path = py-mpu6050-client
+	url = gh:larsks/py-mpu6050-client
