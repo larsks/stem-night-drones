@@ -1,10 +1,12 @@
 # FREE SOFTWARE
 
 All the software used to create this project is FREE SOFTWARE
-distributed under the terms of version 3 of the GNU General Public
-License.  That means that you can freely use, modify, and redistribute
+distributed under the terms of version 3 of the [GNU General Public
+License][gpl].  That means that you can freely use, modify, and redistribute
 this software.  The only requirement is that any modifications you
 make must follow the same license.
+
+[gpl]: LICENSE.txt
 
 The code I wrote for this project can be found at:
 
